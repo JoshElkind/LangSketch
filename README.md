@@ -1,4 +1,4 @@
-# LangSketch
+# LangSketch (Demo: https://www.youtube.com/watch?v=3CpwQWJc918&feature=youtu.be)
 
 > A powerful desktop application for graphically orchestrating agentic AI systems with visual workflow design and analytics.
 
